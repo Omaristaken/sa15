@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  #quiz {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+  }
+  
+  #question-container {
+    margin-bottom: 60px;
+  }
+  
+  #options {
+    padding: 0;
+  }
+  
+  #options li {
+    margin-bottom: 10px;
+  }
+  
+  #feedback {
+    font-weight: bold;
+    margin-bottom: 40px;
+  }
+  
+  footer {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
